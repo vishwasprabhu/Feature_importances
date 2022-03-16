@@ -10,3 +10,5 @@ The goal of this report is to better understand the features in our dataset and 
 7. Is there a way we can automate our feature selection algorithm?
 8. How reliable are our feature importance values?
 9. How can we select features by comparing to a Null distribution of our response variable?
+
+Please check the notebook named featimp.ipynb for more details and featimp.py for code details of the implementation.
